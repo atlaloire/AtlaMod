@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AtlaMod</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ATLA_MOD_COMMON</name>
+			<type>2</type>
+			<location>C:/MinecraftDev/eclipse/AtlaMod/ATLA_MOD_COMMON</location>
+		</link>
+		<link>
+			<name>ATLA_MOD_RESOURCES</name>
+			<type>2</type>
+			<location>C:/MinecraftDev/eclipse/AtlaMod/ATLA_MOD_RESOURCES</location>
+		</link>
+	</linkedResources>
+</projectDescription>
